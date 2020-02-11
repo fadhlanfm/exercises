@@ -1,3 +1,7 @@
+// Fadhlan Fariz Makarim
+// fadhlan@outlook.co.id
+// https://www.hackerrank.com/challenges/birthday-cake-candles/
+
 function birthdayCakeCandles(ar) {
     let max = ar[0]
     for(let i=1;i<ar.length;i++){

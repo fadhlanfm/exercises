@@ -1,3 +1,7 @@
+// Fadhlan Fariz Makarim
+// fadhlan@outlook.co.id
+// https://www.hackerrank.com/challenges/staircase/
+
 function staircase(n){
   for(let i = 0; i<n; i++){
     let output = ''

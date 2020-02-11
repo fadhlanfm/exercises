@@ -1,3 +1,7 @@
+// Fadhlan Fariz Makarim
+// fadhlan@outlook.co.id
+// https://www.hackerrank.com/challenges/apple-and-orange/
+
 function countApplesAndOranges(s, t, a, b, apples, oranges) {
     let applesCounter = 0
     let orangesCounter = 0

@@ -1,3 +1,7 @@
+// Fadhlan Fariz Makarim
+// fadhlan@outlook.co.id
+// https://www.hackerrank.com/challenges/compare-the-triplets/
+
 function compareTriplets(a, b) {
     let alice = 0
     let bob = 0

@@ -1,3 +1,7 @@
+// Fadhlan Fariz Makarim
+// fadhlan@outlook.co.id
+// https://www.hackerrank.com/challenges/plus-minus/
+
 function plusMinus(arr) {
 let positive = 0
     let negative = 0

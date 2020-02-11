@@ -1,3 +1,7 @@
+// Fadhlan Fariz Makarim
+// fadhlan@outlook.co.id
+// https://www.hackerrank.com/challenges/mini-max-sum/
+
 function miniMaxSum(arr) {
     let min = arr[0]
     let minIndex = 0
